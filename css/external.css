@@ -1,0 +1,138 @@
+body
+{
+	background-image: url("D:/html and css/First_web_page/img/music.jpg");
+}
+.main
+{
+	background:black;
+	margin:auto;
+}
+nav li
+{
+	display: inline;
+}
+header
+{
+	background: brown;
+	overflow: hidden;
+	position: fixed;
+	top: 0px;
+	margin: auto;
+	z-index: 100000;
+}
+#txt
+{
+	font-family: Alegreya Sans SC;
+	color:red;
+	padding-top: 80px;
+	padding-left: 40px;
+}
+#txt1
+{
+	color: white;
+	font-family: Alegreya Sans SC;
+}
+#p
+{
+	color: white;
+	font-family: Alegreya Sans SC;
+}
+#h
+{
+	font-family: Alegreya Sans SC;
+}
+#h1
+{
+	padding-left: 80px;
+	font-family: Alegreya Sans SC;
+}
+#course
+{
+   font-family: Alegreya Sans SC;
+}
+#img
+{
+	width: 50px;
+	height:50px;
+}
+#img1
+{
+	padding-right: 20px;
+	width: 330px;
+	height:200px;
+}
+#img2
+{
+	
+	width: 300px;
+	height:250px;
+}
+#img3
+{
+	width: 200px;
+	height:100px;
+}
+.primary
+{
+
+	background-image: url("D:/html and css/First_web_page/img/simbol.jpg");
+	padding-top: 100px;
+	padding-bottom: 20px;
+}
+.hero
+{
+	padding-top: 30px;
+    float: left;
+}
+.first
+{
+	background: lavender;
+}
+.sec
+{
+	background: darkturquoise;
+}
+.sec1
+{
+	background: #A569BD;
+}
+.sec2
+{
+	background: blue;
+}
+.sec3
+{
+	background: #A569BD;
+}
+.sec4
+{
+	background: blue;
+}
+.fa
+{
+	float:center;
+}
+.foot
+{
+	background: silver;
+}
+.fa
+{
+	padding-left: 30px;
+}
+.hh
+{
+	color: white;
+	font-family: Alegreya Sans SC;
+	font-size: 30px;
+}
+a
+{
+	text-decoration: none;
+	color: white;
+}
+a:hover
+{
+	color: gray;
+
+}
